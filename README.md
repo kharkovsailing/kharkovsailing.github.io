@@ -1,2 +1,1 @@
-# github.io
-My website
+Sailing school website project (non ready yet)
